@@ -22,5 +22,5 @@ jobs:
                  files: "*.tex"
                  check_dot_files: false
                  strict: true
-                 incrememental_file_only: false
+                 incrememental_files_only: false
                  
