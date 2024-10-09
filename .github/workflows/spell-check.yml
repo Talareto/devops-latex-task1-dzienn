@@ -15,7 +15,7 @@ jobs:
                 npm install @csspell/dict-pl_pl
                 npm install @csspell/dict-latex
                 npm install @csspell/dict-software-terms
-                npm install @csspell/dict-golang
+                
             - name: Run csspell
               uses: streetsidesoftware/cspell-action@v2
               with: 
